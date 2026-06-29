@@ -14,7 +14,3 @@ The presentation (`index.html`) is a single HTML file — no dependencies, no bu
 | `index.html` | Main presentation — upload to repo root for GitHub Pages |
 | `speaker_notes.html` | Companion speaker notes — organized by slide |
 | `README.md` | This file |
-
-## Deploying to GitHub Pages
-
-Upload `index.html` to the root of your repository (rename from `campspot_presentation.html` if needed). Go to **Settings → Pages → Source: Deploy from branch → main → / (root)**. The site will be live at `kelsosman.github.io/[repo-name]` within ~60 seconds.
